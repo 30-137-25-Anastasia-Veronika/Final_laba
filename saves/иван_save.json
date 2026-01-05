@@ -1,0 +1,43 @@
+{
+  "username": "иван",
+  "current_location": "вход",
+  "progress": 99,
+  "artifacts": [
+    {
+      "name": "Милость Ольги Васильевны",
+      "power": 25,
+      "description": "Постоянный бонус к силе",
+      "max_uses": -1,
+      "current_uses": -1
+    },
+    {
+      "name": "Теннисная ракетка Маши",
+      "power": 30,
+      "description": "Мощный удар ракеткой",
+      "max_uses": 3,
+      "current_uses": 2
+    },
+    {
+      "name": "Кружка 2205",
+      "power": 10,
+      "description": "Восстанавливает 10 HP каждый ход",
+      "max_uses": -1,
+      "current_uses": -1
+    },
+    {
+      "name": "Тапок Барисбия",
+      "power": 50,
+      "description": "Однократный супер-удар по таракану",
+      "max_uses": 1,
+      "current_uses": 1
+    }
+  ],
+  "hp": 200,
+  "energy": 200,
+  "completed_stories": [
+    "комната_2209",
+    "чай_2205",
+    "коворкинг"
+  ],
+  "secret_room_visited": true
+}

@@ -1,0 +1,20 @@
+{
+  "username": "игорь",
+  "current_location": "вход",
+  "progress": 66,
+  "artifacts": [
+    {
+      "name": "Тапок Барисбия",
+      "power": 50,
+      "description": "Однократный супер-удар по таракану",
+      "max_uses": 1,
+      "current_uses": 1
+    }
+  ],
+  "hp": 200,
+  "energy": 200,
+  "completed_stories": [
+    "коворкинг"
+  ],
+  "secret_room_visited": true
+}
